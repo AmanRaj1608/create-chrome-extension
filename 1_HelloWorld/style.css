@@ -1,0 +1,13 @@
+body {
+    background: bisque;
+}
+
+h2 {
+    color: brown;
+}
+button {
+    height: 50px;
+    width: 50px;
+    outline: none;
+    margin: 10px;
+  }
