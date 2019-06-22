@@ -7,7 +7,7 @@
 
 <br>
 
-So before we start let's discuss what are the __types of Chrome extension__ you can make :
+So before we start, let's discuss what are the __types of Chrome extensions__ you can make :
 <br>
   * Browser Action - Stays in tool bar; accesible all time.
   * Page Action - Stays in tool bar but grey-ed out. Accesible only on certain pages.
@@ -34,10 +34,10 @@ These files combine to make a package of .crx format zip file which can be uploa
 
 ### Let's Begin
 
-> First you have to create a `manifest.json` file. The directory holding the `manifest file` can be added as an extension in developer mode in its current state. This file should contain these 4 things : 
+> First, you have to create a `manifest.json` file. The directory holding the `manifest file` can be added as an extension in developer mode in its current state. This file should contain these 4 things : 
 
- * "name" : tells about name of your extension. 
- * "version" : tells about version of your Extension as you will publish changes later on in future. 
+ * "name" : tells you about the name of your extension. 
+ * "version" : tells you about the version of your Extension as you will publish changes later on in future. 
  * "description" : this will be available in description section in Chrome web store. 
  * "manifest_version" : Developers should specify which version of the manifest specification their package targets by setting a manifest_version key in their manifests. 
 
